@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Q:/GitHub/Games/CrowCrown/CrowCrown/Content/Blueprints/BP_SpriteCharacter.uasset",
+				"Q:/GitHub/Games/CrowCrown/CrowCrown/Content/Maps/Map_TestMap.umap",
 				"C:/Users/Brian Dang/Documents/GitHub/CrowCrown/CrowCrown/Content/Map_TestMap.umap",
 				"C:/Users/Brian Dang/Documents/GitHub/CrowCrown/CrowCrown/Content/Maps/Map_TestMap.umap",
 				"C:/Users/Brian Dang/Documents/GitHub/CrowCrown/CrowCrown/Content/SunnyLandAssets/sprites/item-feedback/item-feedback-2.uasset",
