@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/Gosha Shashlik/CrowCrown/CrowCrown/Content/Blueprints/BP_Camera.uasset",
 				"Q:/GitHub/Games/CrowCrown/CrowCrown/Content/Blueprints/Characters/AnimSequences/Idle.uasset",
 				"Q:/GitHub/Games/CrowCrown/CrowCrown/Content/Blueprints/Characters/AnimSequences/Move.uasset",
 				"Q:/GitHub/Games/CrowCrown/CrowCrown/Content/Blueprints/Characters/AnimSequences/Hopping.uasset",
